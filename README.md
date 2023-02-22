@@ -1,2 +1,2 @@
 # scripts-schemas-snds
- scripts to generate tableschema json files
+ scripts to generate SNDS Schema (json files) using tableschema
